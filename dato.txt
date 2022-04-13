@@ -1,7 +1,4 @@
 Esta es la historia de Juan Felipe.
 
-Juan Felipe, tiene 19 años, y tiene 11 gatos.
-
-Algo curioso es que estudia programacion.
-
-Curiosamente, Juan Felipe, nacio en Colombia, pero vive en todo el mundo.
+Juan Felipe, tiene 19 años,nacio en Colombia,
+pero vive en todo el mundo.
